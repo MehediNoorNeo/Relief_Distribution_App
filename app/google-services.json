@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "798958132797",
+    "firebase_url": "https://relief-distribution-2w5-default-rtdb.firebaseio.com",
+    "project_id": "relief-distribution-2w5",
+    "storage_bucket": "relief-distribution-2w5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798958132797:android:6b5cafbf75fa3226e8d454",
+        "android_client_info": {
+          "package_name": "com.example.reliefdistribution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgYtoCIsc8Vov5nMbzeWeNQ0RL6fkO_tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

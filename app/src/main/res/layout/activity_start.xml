@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#CFDBE3">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="GPS GUIDED RELIEF DISTRIBUTION SYSTEM"
+        android:textColor="@color/black"
+        android:textColorLink="@color/black"
+        android:textSize="36sp"
+        android:textStyle="bold|italic" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="443dp"
+        android:layout_height="382dp"
+        android:layout_marginTop="40dp"
+        android:layout_weight="1"
+        android:background="@drawable/start_view" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="296dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="DAY FOR WORLD!"
+        android:textColor="@color/black"
+        android:textColorLink="@color/black"
+        android:textSize="32sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/btStart"
+        android:layout_width="272dp"
+        android:layout_height="72dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="60dp"
+        android:backgroundTint="@color/black"
+        android:gravity="center"
+        android:text="GET STARTED"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Relief Distribution</string>
+
+    <string-array name="spinner_items">
+        <item>Distributor</item>
+        <item>Survivor</item>
+    </string-array>
+
+    <string name="my_map_api_key">
+        AIzaSyCigtRRj8Lc7PdEPDgWCnjwh837kynOKzk
+    </string>
+</resources>

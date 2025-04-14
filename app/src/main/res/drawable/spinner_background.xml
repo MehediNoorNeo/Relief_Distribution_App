@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Border -->
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="@color/black" />
+            <solid android:color="@android:color/transparent"/>
+            <corners android:radius="30dp" />
+        </shape>
+    </item>
+
+    <!-- Default Spinner Arrow -->
+    <item android:drawable="@drawable/ic_arrow_down" android:gravity="end|center_vertical" />
+</layer-list>
