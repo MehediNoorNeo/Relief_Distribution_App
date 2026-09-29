@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Firebase-Realtime%20Database-FFCA28?style=for-the-badge&logo=firebase">
   <img src="https://img.shields.io/badge/Google-Maps%20API-4285F4?style=for-the-badge&logo=googlemaps">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu">
 </p>
 
 ---
@@ -90,6 +91,7 @@ Relief_Distribution_App/
 ├── .gitignore
 ├── build.gradle
 ├── settings.gradle
+├── LICENSE
 └── README.md
 ```
 
@@ -183,4 +185,4 @@ The goal of this project is to improve disaster response by:
 
 ## 📄 License
 
-This project is intended for educational and research purposes.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
